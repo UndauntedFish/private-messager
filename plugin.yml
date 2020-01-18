@@ -1,0 +1,9 @@
+main: com.ben.privatemessager.Main
+name: PrivateMessager
+description: Allows players to send and reply to PMs.
+version: 1.0
+commands:
+  message:
+    aliases: [msg]
+  reply:
+    aliases: [r]
